@@ -1,3 +1,3 @@
 # Calculator
 
-## simlple caluclation excercise in JS
+## simple caluclation excercise in JS
